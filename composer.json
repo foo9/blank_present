@@ -1,18 +1,18 @@
 {
-    "name": "foo9/blank_present",
-    "require": {
+	"name": "foo9/blank_present",
+	"require": {
 		"php": ">=5.4"
 	},
-    "require-dev": {
-        "phpunit/phpunit": "4.5.*"
-    },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Kouta Fukuhara",
-            "email": "fu9fu9fu9@gmail.com"
-        }
-    ],
+	"require-dev": {
+		"phpunit/phpunit": "4.5.*"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Kouta Fukuhara",
+			"email": "fu9fu9fu9@gmail.com"
+		}
+	],
 	"autoload": {
 		"files": [
 			"src/functions.php"
