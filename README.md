@@ -1,5 +1,7 @@
 # blank_present
 
+[![Build Status](https://travis-ci.org/foo9/blank_present.svg)](https://travis-ci.org/foo9/blank_present)
+
 The blank and present function for PHP.
 
 ## Requirements
